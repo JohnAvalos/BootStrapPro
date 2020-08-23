@@ -1,0 +1,105 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgba(0, 0, 0, 0.89);
+    color: white;
+    font-family: Arial;
+}
+h3
+{
+    padding: 0;
+    margin: 0;
+    padding-bottom: 20px;
+}
+
+.menu-principal li
+{
+    font-size: 15px;
+}
+
+.box-img
+{
+    padding-top: 50px;
+}
+
+ .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+      height: 350px;
+  }
+
+@media only screen and (max-width: 700px) {
+   .carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width: 100%;
+      margin: auto;
+      height: 200px;
+  }
+}
+
+.imgResponsive
+{
+    display: block;
+    width: 900px;
+    height: 200px;
+}
+.img-spacing
+{
+    padding-top: 40px;
+}
+.footer {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: block;
+    height: auto;
+    color: #99979c;
+    background-color: #2A2730;
+   
+}
+
+.top-20
+{
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+
+.img-grande
+{
+    display: block;
+    width: 1200px;
+    height: 300px;
+}
+.left
+{
+    text-align: right;
+}
+.pad-top-20
+{
+   padding-bottom: 44px; 
+}
+.img-respons
+{
+    display: block;
+   text-align: center;
+    max-width: 200px;
+    height: 90px;
+    margin: 0 auto;
+}
+.derecho a
+{
+    display: block;
+    float: right;
+}
+.game
+{
+    display: block;
+    width: 40px;
+    height: 40px;
+    float: left;
+    margin-top: -10px;
+    padding-right: 10px;
+}
+
+
